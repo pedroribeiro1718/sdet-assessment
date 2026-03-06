@@ -131,8 +131,6 @@ It assisted with:
 
 **I reviewed and adapted all generated suggestions manually**, especially when the live API behavior was different from the acceptance criteria discussed in the proposal.
 
----
-
 ## Omissions and trade-offs
 
 Given the **2–3 hour target**, I made the following trade-offs:
@@ -141,8 +139,6 @@ Given the **2–3 hour target**, I made the following trade-offs:
 - I kept the suite focused on **critical/high-priority scenarios** rather than building a large matrix of edge cases.
 - I did **not implement CI workflow automation** or Gherkin-to-manual-script conversion, because that would have been disproportionate for the exercise. This would however be my suggestion, since Gherkin does lend itself well to convertibility to manual test cases, and avoiding multiple sources-of-truth is a good QA/organizational practice.
 - The manual script is written around the **intended frontend behavior**, while the automated tests exercise the **backend APIs directly**.
-
----
 
 ## Final notes
 
