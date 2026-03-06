@@ -146,4 +146,4 @@ This submission is designed to demonstrate:
 
 - **BDD thinking** aligned with the feature ticket
 - **Simple API automation** that can be scaled and made more impactful in an iterative manner
-- **Traceability between automated and manual testing**, with manual testing focused on the end-user jorney rather than API endpoints or performance testing.
+- **Traceability between automated and manual testing**, with manual testing focused on the end-user jorney rather than API behavior or performance testing.
